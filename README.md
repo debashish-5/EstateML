@@ -87,7 +87,7 @@ Saves results in output.csv
 ----
 
 
-📦 Files Not Included in GitHub
+## 📦 Files Not Included in GitHub
 
 Files like model.pkl and pipeline.pkl may not be included due to size limits. You can regenerate them by simply running the script.
 
@@ -95,7 +95,7 @@ Files like model.pkl and pipeline.pkl may not be included due to size limits. Yo
 ---
 
 
-📤 Output
+## 📤 Output
 
 
 After prediction:
@@ -112,7 +112,7 @@ A new column median_house_value with predicted house prices
 ---
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Debashish Parida
 GitHub: https://github.com/debashish-5
