@@ -41,6 +41,7 @@ pip install pandas numpy scikit-learn joblib
 
 ---
 
+
 ▶️ How to Run the Project
 
 1. Make sure housing.csv is present in the project folder.
@@ -83,7 +84,8 @@ Saves results in output.csv
 
 
 
----
+----
+
 
 📦 Files Not Included in GitHub
 
@@ -92,7 +94,9 @@ Files like model.pkl and pipeline.pkl may not be included due to size limits. Yo
 
 ---
 
+
 📤 Output
+
 
 After prediction:
 
@@ -106,6 +110,7 @@ A new column median_house_value with predicted house prices
 
 
 ---
+
 
 👨‍💻 Author
 
