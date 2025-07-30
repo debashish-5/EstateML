@@ -35,14 +35,14 @@ This project builds a complete machine learning pipeline to predict median house
 
 Install required Python packages:
 
-
+```bash
 pip install pandas numpy scikit-learn joblib
 
-
+```
 ---
 
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 1. Make sure housing.csv is present in the project folder.
 
